@@ -46,6 +46,4 @@ The database consists of three primary entities:
 
 ---
 
-## Author
-**Amudha. N** Batch: TN-DA-ANB11  
-Project Domain: Data Analytics / SQL Development
+
